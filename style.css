@@ -1,0 +1,101 @@
+
+@font-face{
+    font-family:"OpenSans";
+    src: url("fonts/OpenSans-VariableFont_wdth,wght.ttf");
+}
+@font-face{
+    font-family:"RobotoSlab";
+    src: url("./fonts/RobotoSlab-VariableFont_wght.ttf");
+}
+
+.body{
+    margin: 0px 0px 0px 0px;
+    background-color: #bb2927;
+}
+
+.main {
+    margin: 50px 100px;
+    background-color: white;
+
+
+}
+
+/* *{
+    font-family:"OpenSans";
+} */
+.nav-container {
+    padding-left: 160px;
+    padding-right: 160px;
+    padding-top: 5px;
+}
+.navbar {
+    font-family:"OpenSans";
+    word-spacing: 100px;
+    background-color: black;
+    color: white;
+    /* text-align: center; */
+    font-size: xx-large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.non-alpha {
+    word-spacing: normal;
+}
+.meh{
+    font-size: 70px;
+    text-align: center;
+    word-spacing: 30px;
+    font-family:"RobotoSlab";
+}
+.sign{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.lorem{
+    font-family: "OpenSans";
+    padding-left: 130px;
+    padding-right: 130px;
+    text-align: justify;   
+}
+
+.images{
+    font-family: "OpenSans";
+    font-size: 120%;
+    padding-left: 105px;
+    padding-right: 80px;
+     
+}
+.pic{
+    height: 267px;
+    width: 267px;
+}
+.fig{
+        margin-bottom: 0;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+.fig1{
+        margin-top: 0px;
+        margin-bottom:20px;
+        margin-left: 20px;
+        margin-right: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
